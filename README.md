@@ -1,1 +1,1 @@
-(./assets/ig-img.jpeg)
+![design](./assets/ig-img.jpeg)
